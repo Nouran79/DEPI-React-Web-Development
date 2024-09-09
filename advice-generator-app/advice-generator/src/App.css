@@ -1,0 +1,75 @@
+#centric{
+
+  background-color: hsl(217, 19%, 24%);
+  border-radius: 25px;
+  padding: 50px;
+  width: 550px;
+  height: 320px;
+  color: aliceblue;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+body{
+  background-color: hsl(218, 23%, 16%);
+  display: inline-flex;
+  justify-content: center;
+  align-content: center;
+}
+#advBtn{
+ background-color:   hsl(150, 100%, 66%);
+ border: 2px solid  hsl(150, 100%, 66%);;
+ border-radius: 50px;
+  padding: 10px;
+  width: 70px;
+  color: aliceblue;
+  position: absolute;
+  margin: auto;
+  top:28%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+
+}
+#dice{
+  position: absolute;
+  right: 49.60%;
+  top: 63%;
+}
+#advice{
+  font-size: 28px;
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+h1{
+  font-size: 18px;
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  color: hsl(150, 100%, 66%);
+  letter-spacing: 6px;
+}
+svg{
+  position: absolute;
+  right: 100px;
+  bottom: 90px;
+  color:  hsl(193, 38%, 86%);
+}
+p{
+  width: 445px;
+  line-height: 1.5;
+  position: relative;
+  top: 7%;
+  left: 10%;
+}
